@@ -6,11 +6,3 @@
 
 [build.environment]
   HUGO_VERSION = "0.140.2"
-
-[[plugins]]
-
-  [plugins.inputs.postBuild]
-    enable = true
-
-  [plugins.inputs]
-    enable = false
