@@ -24,34 +24,34 @@ params:
               <link rel="shortcut icon" href="favicon.ico">
 
   profile:
-    name: "First Last, Abbr."
-    tagline: Title
-    location: "City Name, ST"
+    name: "Anson Olive"
+    tagline: Nuclear Engineer
+    location: "College Station, Texas"
     photo: profile.jpg
   social:
     title: Links
     list:
       - icon: fab fa-linkedin-in
-        url: "#"
+        url: "https://www.linkedin.com/in/ansonolive/"
         title: LinkedIn
-      - icon: fab fa-stack-overflow
-        url: "#"
-        title: StackOverflow
+      #- icon: fab fa-stack-overflow
+      #  url: "#"
+      #  title: StackOverflow
       - icon: fab fa-github
-        url: "#"
+        url: "https://github.com/AnsOlive"
         title: GitHub
-      - icon: fab fa-twitter
-        url: "#"
-        title: Twitter
-      - icon: fab fa-orcid
-        url: "#"
-        title: Orcid
-      - icon: ai ai-google-scholar
-        url: "#"
-        title: Google Scholar
-      - icon: fab fa-researchgate
-        url: "#"
-        title: ResearchGate
+      #- icon: fab fa-twitter
+      #  url: "#"
+      #  title: Twitter
+      #- icon: fab fa-orcid
+      #  url: "#"
+      #  title: Orcid
+      #- icon: ai ai-google-scholar
+      #  url: "#"
+      #  title: Google Scholar
+      #- icon: fab fa-researchgate
+      #  url: "#"
+      #  title: ResearchGate
   showInAccordion:
     - item: aboutme
       expand: true
@@ -64,7 +64,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: This is a demo of the `aafu` theme. It has `light` and `dark` theme.
+    description: Hello! My name is Anson Olive and I am a nuclear engineer interested in fusion, programming, and experimentation. Please browse my projects and feel free to reach out to me. Thank you for stopping by!
   experience:
     title: Experiences
     icon: fas fa-briefcase
