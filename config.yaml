@@ -4,8 +4,8 @@ build:
   writeStats: true
 params:
   title: aafu theme
-  author: Darshan Baral
-  description: Website title
+  author: Anson Olive
+  description: My Portfolio
   copyright: >-
     powered by [hugo](https://gohugo.io/) & deployed on
     [Cloudflare](https://www.cloudflare.com/)
@@ -69,35 +69,46 @@ params:
     title: Experiences
     icon: fas fa-briefcase
     list:
-      - position: Job Title
-        dates: 2019 - *Present*
-        company: Company Name
+      - position: Fusion Energy Researcher
+        dates: August 2023 - Present
+        company: Texas A&M University Department of Nuclear Engineering
         details: |1-
-          - Printed from desktop. Sent [emails](#).
-              - Called people *using* telephone.
-          - Drank water from office cooler.
-          - Ate donuts on people's birthdays.
-      - position: Job Title
-        dates: 2018 - 2019
-        url: "#"
-        company: Company Name
+          - Developed OpenMC Monte Carlo simulations for tritium production in a lithium blanket of the Commonwealth Alcator C-mod reactor.
+          - Explored scientific documentation to further applications of fusion reactors in industry.
+          - Collaborated on neutronics and heat transfer computations for the HYLIFE fusion reactor design.
+      - position: Microdosimetry Researcher
+        dates: October 2023 - Present
+        company: Texas A&M University
+        details: |1-
+          - Improved microdosimeter designs using SolidWorks to enhance strength and reduce microphonic noise.
+          - Published research on a hexagonal microdosimeter design at the 2024 INMM conference.
+      - position: Project Engineer
+        dates: May 2024 - August 2024
+        company: Fluor
+        details: |1-
+          - Facilitated cross-disciplinary communication for a $12 billion project to retrofit Savannah River National Laboratory facilities.
+          - Adapted project designs to evolving customer requirements.
   education:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Ph.D. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: M.S. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: B.S. in Subject
-        college: University of State-City
-        dates: 2004 - 2009
+      - degree: Bachelor of Science in Nuclear Engineering, Minor in Mathematics
+        college: Texas A&M University Engineering Honors
+        dates: August 2022 - December 2025
+        gpa: 3.533 GPA
+    activities:
+    title: Activities & Leadership
+    icon: fas fa-users
+    list:
+      - title: Fusion Club Officer
+        role: Treasurer
+        dates: November 2024 - Present
+      - title: Running Club
+        role: Race Coordinator
+        dates: August 2023 - Present
+      - title: T.U.R.T.L.E Robotics Club
+        role: System Designer
+        dates: January 2023 - May 2024
   publication:
     title: Publications
     icon: fas fa-book
@@ -155,12 +166,14 @@ params:
     panelId: skill-panel
     icon: fas fa-cogs
     list:
-      - skill: "Skill 1, Skill 2"
+      - skill: "OpenMC, MCNP, MOOSE"
+        skillrating: 95
+      - skill: "Python, C++, Linux"
         skillrating: 90
-      - skill: Skill 3
+      - skill: "SolidWorks, 3D Printing, Git"
+        skillrating: 85
+      - skill: "Project Management, Oratory, Scientific Research"
         skillrating: 80
-      - skill: Skill 4
-        skillrating: 50
   hobby:
     title: Hobbies
     icon: fas fa-gamepad
