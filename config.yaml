@@ -3,7 +3,7 @@ languageCode: en-us
 build:
   writeStats: true
 params:
-  title: aafu theme
+  # title: aafu theme
   author: Anson Olive
   description: My Portfolio
   # copyright:
@@ -127,37 +127,12 @@ params:
         journal: "Journal of Field 52 (16), 9033-9044"
         url: "#"
         type: Journal Articles
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Journal Articles
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Proceedings
   project:
     title: Projects
     icon: fas fa-project-diagram
     list:
       - title: My Portfolio Website
         url: "https://ansonprojects.netlify.app/"
-        description: Description of the project
-      - title: Project 2
-        url: "#"
-        description: Description of the project
-      - title: Project 3
-        url: "#"
-        description: Description of the project
-      - title: Project 4
-        url: "#"
         description: Description of the project
   skill:
     title: Skills
@@ -176,6 +151,5 @@ params:
     title: Hobbies
     icon: fas fa-gamepad
     list:
-      - hobby: Cooking
-      - hobby: Hiking
-      - hobby: Baking
+      - hobby: Running
+      - hobby: Cooking & Baking
