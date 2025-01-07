@@ -6,9 +6,7 @@ params:
   title: aafu theme
   author: Anson Olive
   description: My Portfolio
-  copyright: >-
-    powered by [hugo](https://gohugo.io/) & deployed on
-    [Cloudflare](https://www.cloudflare.com/)
+  # copyright:
   theme:
     mainTheme: dark
     showAttribute: true
@@ -96,7 +94,7 @@ params:
         college: Texas A&M University Engineering Honors
         dates: August 2022 - December 2025
         gpa: 3.533 GPA
-    activities:
+  activities:
     title: Activities & Leadership
     icon: fas fa-users
     list:
@@ -149,8 +147,8 @@ params:
     title: Projects
     icon: fas fa-project-diagram
     list:
-      - title: Project 1
-        url: "#"
+      - title: My Portfolio Website
+        url: "https://ansonprojects.netlify.app/"
         description: Description of the project
       - title: Project 2
         url: "#"
