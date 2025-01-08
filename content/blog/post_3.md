@@ -1,16 +1,14 @@
 ---
-title: "luctus enim ultricies auctor pulvinar nam etiam"
-date: 2018-01-06
-tags: ["mollis urna", "notes", "laoreet"]
-categories: ["diam aliqua", "fringilla"]
-description: "dictum tellus sapien vitae integer justo amet mauris cras bolestie sollicitudin dignissim"
+title: "My Website"
+date: 2025-01-08
+tags: ["Get to know me"]
+categories: ["Personal", "Code"]
+description: "This website"
 draft: false
 ---
 
-## donec lacinia eleifend sem a
+## Thanks for dropping in!
 
-Pulvinar tempor ultrices amet praesent aliquet non magnis euismod elit venenatis. Aliqua consequat tristique erat nulla sit risus aliqua posuere. Potenti natoque augue proin accimsan risus scelerisque id integer curabitur mattis amet quisque. Aliquet porta sit sapien natoque sed fringilla, madssa suspendisse vivamus placerat sociis condimentum ridiculus. Natoque egestas non lectus pellentesque nunc mattis eu ridiculus pretium maecenas ligula. Gravida facilisis sem mollis sagittis aliquet ornare bibendum, leo nec morbi tortor diam maecenas tempor.
+This is a simple project I created over this winter break. Doing this helped me learn how to use Github and VScode more efficently, which will be helpful as I previously was using them much more inefficently and did not understand their capabilities.
 
-Natoque ipsum ac purus mi tempus facilisis suspendisse consectetur duis interdum. Potenti vel accimsan fringilla vestibulum neque odio, lacinia duis facilisi turpis consectetur sollicitudin eleifend. Netus posuere et aliquet mauris lacinia habitant lacus imperdiet. Mollis auctor facilisi commodo maecenas condimentum convallis, pretium in consequat velit vel ipsum posuere. Est mollis imperdiet proin vel iaculis aliquam lorem, nibh mattis magna commodo consequat convallis volutpat. Vel gravida purus sagittis nunc netus aliquam quis facilisi magnis.
-
-Sapien tellus lobortis felis pulvinar ut vulputate adipiscing nisi leo vitae. Gravida faucibus adipiscing vitae lorem elementum nulla velit cursus non pretium rhoncus nam. Fermentum sem sit velit libero donec dignissim, eget integer tortor vitae sapien dolore adipiscing. Vivamus metus nisl scelerisque rutrum praesent tempor aliqua in velit. Erat auctor fames mus mi pulvinar nulla porta rhoncus. Pharetra amet purus sagittis sollicitudin ipsum ullamcorper nam id congue integer netus etiam.
+It also helped me understand aspects of the internet I hadn't explored deeply before. In my cybersecurity class I learned about the internet and important aspects of websites such as certificates, but putting mine together from scratch has helped me understand the process a lot better now!
