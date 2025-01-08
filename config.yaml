@@ -20,7 +20,6 @@ params:
               <link rel="manifest" href="site.webmanifest">
               <link rel="mask-icon" href="safari-pinned-tab.svg" color="#252627">
               <link rel="shortcut icon" href="favicon.ico">
-
   profile:
     name: "Anson Olive"
     tagline: Nuclear Engineer
@@ -52,7 +51,6 @@ params:
       #  title: ResearchGate
   showInAccordion:
     - item: aboutme
-      expand: true
     - item: experience
     - item: education
     - item: publication
@@ -94,19 +92,19 @@ params:
         college: Texas A&M University Engineering Honors
         dates: August 2022 - December 2025
         gpa: 3.533 GPA
-  activities:
-    title: Activities & Leadership
-    icon: fas fa-users
-    list:
-      - title: Fusion Club Officer
-        role: Treasurer
-        dates: November 2024 - Present
-      - title: Running Club
-        role: Race Coordinator
-        dates: August 2023 - Present
-      - title: T.U.R.T.L.E Robotics Club
-        role: System Designer
-        dates: January 2023 - May 2024
+  #activities:
+  #  title: Activities & Leadership
+  #  icon: fas fa-users
+  #  list:
+  #    - title: Fusion Club Officer
+  #      role: Treasurer
+  #      dates: November 2024 - Present
+  #    - title: Running Club
+  #      role: Race Coordinator
+  #      dates: August 2023 - Present
+  #    - title: T.U.R.T.L.E Robotics Club
+  #      role: System Designer
+  #      dates: January 2023 - May 2024
   publication:
     title: Publications
     icon: fas fa-book
@@ -153,3 +151,13 @@ params:
     list:
       - hobby: Running
       - hobby: Cooking & Baking
+        list:
+      - title: Fusion Club Officer
+        role: Treasurer
+        dates: November 2024 - Present
+      - title: Running Club
+        role: Race Coordinator
+        dates: August 2023 - Present
+      - title: T.U.R.T.L.E Robotics Club
+        role: System Designer
+        dates: January 2023 - May 2024
