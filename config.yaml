@@ -3,10 +3,9 @@ languageCode: en-us
 build:
   writeStats: true
 params:
-  # title: aafu theme
+  title: aafu theme
   author: Anson Olive
   description: My Portfolio
-  # copyright:
   theme:
     mainTheme: dark
     showAttribute: true
@@ -40,15 +39,15 @@ params:
       #- icon: fab fa-twitter
       #  url: "#"
       #  title: Twitter
-      #- icon: fab fa-orcid
-      #  url: "#"
-      #  title: Orcid
-      #- icon: ai ai-google-scholar
-      #  url: "#"
-      #  title: Google Scholar
-      #- icon: fab fa-researchgate
-      #  url: "#"
-      #  title: ResearchGate
+      - icon: fab fa-orcid
+        url: "https://orcid.org/0000-0003-0934-8401"
+        title: Orcid
+      - icon: ai ai-google-scholar
+        url: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AFix5Ma776l3cX5qWR30muwNPPONi1mogNAQWc_wysL-jP5ecgRM_QSWAb2eNnRaQ919V-FAaiRvLvPrkqhyZw&user=PlCQFn0AAAAJ"
+        title: Google Scholar
+      - icon: fab fa-researchgate
+        url: "https://www.researchgate.net/profile/Anson-Olive"
+        title: ResearchGate
   showInAccordion:
     - item: aboutme
     - item: experience
@@ -84,6 +83,15 @@ params:
         details: |1-
           - Facilitated cross-disciplinary communication for a $12 billion project to retrofit Savannah River National Laboratory facilities.
           - Adapted project designs to evolving customer requirements.
+      - position: Treasurer
+        dates: November 2024 - Present
+        company: Fusion Club Officer
+      - position: Race Coordinator
+        dates: August 2023 - Present
+        company: Texas A&M Running Club
+      - position: System Designer
+        dates: January 2023 - May 2024
+        company: T.U.R.T.L.E Robotics Club
   education:
     title: Education
     icon: fas fa-graduation-cap
@@ -92,19 +100,6 @@ params:
         college: Texas A&M University Engineering Honors
         dates: August 2022 - December 2025
         gpa: 3.533 GPA
-  #activities:
-  #  title: Activities & Leadership
-  #  icon: fas fa-users
-  #  list:
-  #    - title: Fusion Club Officer
-  #      role: Treasurer
-  #      dates: November 2024 - Present
-  #    - title: Running Club
-  #      role: Race Coordinator
-  #      dates: August 2023 - Present
-  #    - title: T.U.R.T.L.E Robotics Club
-  #      role: System Designer
-  #      dates: January 2023 - May 2024
   publication:
     title: Publications
     icon: fas fa-book
@@ -118,46 +113,52 @@ params:
       - Proceedings
     list:
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
+          Design, construction, and calibration of an Avalanche-confinement Tissue Equivalent Proportional Counter (AcTEPC) for Radiation Monitoring in Space and Therapeutic Applications
+        authors: "Z Ndum, J Ford, D Mazzucconi, A Pola, D Perez, L Braby, A Olive, Y Lui"
+        date: "2024"
+        journal: "65th Annual Meeting of the Institute of Nuclear Materials Management"
+        url: "https://cdn.fourwaves.com/static/media/formdata/b12613f9-28b7-4568-a069-5c7cfeff3c8e/41b1f597-85e4-47e6-92b4-5640141e6a64.pdf"
+      - title: >-
+          The IB-2000XL Intubation Box
+        authors: "S Rippetoe, A Olive, M Menezes"
+        date: "2020"
+        journal: "Texas Torque Newsletter"
+        url: "https://www.texastorque.org/intubation-box-ib-2000xl-update-4820/"
         type: Journal Articles
   project:
     title: Projects
     icon: fas fa-project-diagram
     list:
       - title: My Portfolio Website
-        url: "https://ansonprojects.netlify.app/"
-        description: Description of the project
+        url: "https://ansonprojects.com/"
+        description: This website! Using a Hugo project template I created this website tailored for your experience. Please look around and enjoy my projects! Honestly, I have trouble updating things that aren't projects of mine so this is the push I need to update my socials more often.
   skill:
     title: Skills
     panelId: skill-panel
     icon: fas fa-cogs
     list:
-      - skill: "OpenMC, MCNP, MOOSE"
+      - skill: "Python"
         skillrating: 95
-      - skill: "Python, C++, Linux"
-        skillrating: 90
-      - skill: "SolidWorks, 3D Printing, Git"
-        skillrating: 85
-      - skill: "Project Management, Oratory, Scientific Research"
+      - skill: "OpenMC"
         skillrating: 80
+      - skill: "Oratory"
+        skillrating: 75
+      - skill: "MCNP"
+        skillrating: 70
+      - skill: "SolidWorks"
+        skillrating: 70
+      - skill: "Project Management"
+        skillrating: 60
+      - skill: "Linux"
+        skillrating: 40
+      - skill: "MOOSE"
+        skillrating: 35
+      - skill: "C++"
+        skillrating: 10
   hobby:
     title: Hobbies
     icon: fas fa-gamepad
     list:
-      - hobby: Running
-      - hobby: Cooking & Baking
-        list:
-      - title: Fusion Club Officer
-        role: Treasurer
-        dates: November 2024 - Present
-      - title: Running Club
-        role: Race Coordinator
-        dates: August 2023 - Present
-      - title: T.U.R.T.L.E Robotics Club
-        role: System Designer
-        dates: January 2023 - May 2024
+      - hobby: Running/Exercise
+      - hobby: Cooking 
+      - hobby: Baking
