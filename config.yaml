@@ -1,4 +1,4 @@
-baseURL: https://aafu.pages.dev/
+baseURL: https://ansonprojects.com
 languageCode: en-us
 build:
   writeStats: true
@@ -56,7 +56,6 @@ params:
     - item: experience
     - item: education
     - item: publication
-    - item: activities
     - item: project
     - item: skill
     - item: hobby
