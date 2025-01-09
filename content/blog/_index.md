@@ -1,4 +1,4 @@
 ---
-title: "aafu theme"
+title: "Recent Activity"
 weight: 100
 ---
