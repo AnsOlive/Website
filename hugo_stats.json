@@ -20,10 +20,8 @@
       "link",
       "main",
       "meta",
-      "ol",
       "p",
       "script",
-      "strong",
       "title",
       "ul"
     ],
@@ -178,9 +176,6 @@
     ],
     "ids": [
       "basis",
-      "conclusion",
-      "key-observations",
-      "overview",
       "panel-item-0",
       "panel-item-1",
       "panel-item-2",
