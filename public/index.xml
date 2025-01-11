@@ -6,21 +6,21 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo Page</title>
-      <link>http://localhost:1313/blog/markdown_syntax/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/markdown_syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <title>UO2 MOOSE Simulation</title>
+      <link>http://localhost:1313/blog/post_2/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post_2/</guid>
+      <description>&lt;h1 id=&#34;thanks-for-dropping-in&#34;&gt;Thanks for dropping in!&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-did-i-learn-from-this-project&#34;&gt;What did I learn from this project?&lt;/h2&gt;&#xA;&lt;p&gt;This is a slightly older project that I used MOOSE for in sophomore year. It was my first introduction to multiphysics modeling and simulation, which is now one of my key interests. It also showed me the importance of understanding software from a lower level, a lesson I have used a lot recently to help with my current research project.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>luctus enim ultricies auctor pulvinar nam etiam</title>
-      <link>http://localhost:1313/blog/post_3/</link>
-      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post_3/</guid>
-      <description>&lt;h2 id=&#34;donec-lacinia-eleifend-sem-a&#34;&gt;donec lacinia eleifend sem a&lt;/h2&gt;&#xA;&lt;p&gt;Pulvinar tempor ultrices amet praesent aliquet non magnis euismod elit venenatis. Aliqua consequat tristique erat nulla sit risus aliqua posuere. Potenti natoque augue proin accimsan risus scelerisque id integer curabitur mattis amet quisque. Aliquet porta sit sapien natoque sed fringilla, madssa suspendisse vivamus placerat sociis condimentum ridiculus. Natoque egestas non lectus pellentesque nunc mattis eu ridiculus pretium maecenas ligula. Gravida facilisis sem mollis sagittis aliquet ornare bibendum, leo nec morbi tortor diam maecenas tempor.&lt;/p&gt;</description>
+      <title>My Website</title>
+      <link>http://localhost:1313/blog/post_1/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post_1/</guid>
+      <description>&lt;h1 id=&#34;thanks-for-dropping-in&#34;&gt;Thanks for dropping in!&lt;/h1&gt;&#xA;&lt;h2 id=&#34;why-did-i-create-this-project&#34;&gt;Why did I create this project?&lt;/h2&gt;&#xA;&lt;p&gt;This is a simple project I created over this winter break. Doing this helped me learn how to use Github and VScode more efficently, which will be helpful as I previously was using them much more inefficently and did not understand their capabilities.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-have-i-learned&#34;&gt;What have I learned?&lt;/h2&gt;&#xA;&lt;p&gt;It also helped me understand aspects of the internet I hadn&amp;rsquo;t explored deeply before. In my cybersecurity class I learned about the internet and important aspects of websites such as certificates, but putting mine together from scratch has helped me understand the process a lot better now!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

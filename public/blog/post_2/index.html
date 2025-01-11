@@ -107,14 +107,43 @@
     
     <main class="grow">
 <div class="prose prose-stone dark:prose-invert max-w-none">
-  <div class="mb-3">
-    <h1 class="top-h1" style="font-size: 2.75em">Page not found</h1>
-  </div>
-  <div class="content">
-    <p>
-      <a href="/"> Return to the home page </a>
-    </p>
-  </div>
+<div class="mb-3">
+  <h1 class="top-h1" style="font-size: 2.75em">UO2 MOOSE Simulation</h1>
+  <p class="mb-1">January 11, 2025</p>
+  <p>&mdash;</p>
+</div>
+<div class="content">
+  <h1 id="thanks-for-dropping-in">Thanks for dropping in!</h1>
+<h2 id="what-did-i-learn-from-this-project">What did I learn from this project?</h2>
+<p>This is a slightly older project that I used MOOSE for in sophomore year. It was my first introduction to multiphysics modeling and simulation, which is now one of my key interests. It also showed me the importance of understanding software from a lower level, a lesson I have used a lot recently to help with my current research project.</p>
+<h2 id="basis">Basis</h2>
+<p>The simulation is based on a 2D slice of a fuel rod with cladding. The fuel itself is a simple UO2 pellet, which we simulate over a moderately large time frame to see how it fractures. This can be contrasted with other simulations that have similar parameters but with changes in material properties for the pellet; this would allow further examination of how different fuel materials hold up structurally over the span of operation.</p>
+<h2 id="video-demonstrations">Video Demonstrations</h2>
+<p>I have embedded two videos below that unfortunately do not seem to work all that well at the moment. The UO2 fracture with cladding was a video taken of the exodus file from a simulation of the radial stress, radial strain, hoop stress, and hoop strain. In this case, the simulation shown was how these factors induced the pellet to crack over time.</p>
+<p>The UO2 mechanics with cladding was a video taken of the temperature distribution over operation. You will notice that it does not change much over time. This is because the time steps were fairly large in comparison to the lifetime of a neutron and that the pellet had the highest temperatures by far. Due to the cladding being at a much lower temperature than the center of the pellet, the temperature profile did not change much. The simulation also normalized each time step with the maximum and minimum temperatures for that time- another reason why the change seen is minimal.</p>
+<h3 id="uo2-fracture-with-cladding">UO2 Fracture with Cladding</h3>
+<!-- raw HTML omitted -->
+<h3 id="uo2-mechanics-with-cladding">UO2 Mechanics with Cladding</h3>
+<!-- raw HTML omitted -->
+
+</div>
+</div>
+<div class="flex flex-row justify-around my-2">
+  <h3 class="mb-1 mt-1 text-left mr-4">
+    
+    <a
+      href="/blog/post_1/"
+      title="My Website"
+    >
+      <i class="nav-menu fas fa-chevron-circle-left"></i>
+    </a>
+    
+  </h3>
+  <h3 class="mb-1 mt-1 text-left ml-4">
+    
+    <i class="text-gray-300 dark:text-gray-600 fas fa-chevron-circle-right"></i>
+    
+  </h3>
 </div>
 
 
