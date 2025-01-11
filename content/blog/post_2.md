@@ -20,10 +20,10 @@ Nuclear fuel, often comprised of UO2, operates under extreme conditions. Underst
 ## Video Demonstrations
 
 ### UO2 Fracture with Cladding
-{{< video src="/videos/uo2fracture_with_cladding.mov" >}}
+{{< video library="1" src ="/videos/uo2fracture_with_cladding.mov" controls="yes" >}}
 
 ### UO2 Mechanics with Cladding
-{{< video src="/videos/uo2mechanics_with_cladding.mov" >}}
+{{< video library="1" src ="/videos/uo2mechanics_with_cladding.mov" controls="yes" >}}
 
 ## Key Observations
 
