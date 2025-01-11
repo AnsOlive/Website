@@ -19,9 +19,11 @@ The simulation is based on a 2D slice of a fuel rod with cladding. The fuel itse
 
 ## Video Demonstrations
 
-I have embedded two videos below that unfortunately do not seem to work all that well at the moment. The UO2 fracture with cladding was a video taken of the exodus file from a simulation of the radial stress, radial strain, hoop stress, and hoop strain. In this case, the simulation shown was how these factors induced the pellet to crack over time.
+I have embedded two videos below that unfortunately do not seem to work all that well at the moment. You will notice 'jumps' in both; that is because I am normalizing the data at that time so the rate of change is plain to see. I prioritized this over the absolute data scaled over the whole time because that scale makes the final data look somewhat homogenous.
 
-The UO2 mechanics with cladding was a video taken of the temperature distribution over operation. You will notice that it does not change much over time. This is because the time steps were fairly large in comparison to the lifetime of a neutron and that the pellet had the highest temperatures by far. Due to the cladding being at a much lower temperature than the center of the pellet, the temperature profile did not change much. The simulation also normalized each time step with the maximum and minimum temperatures for that time- another reason why the change seen is minimal.
+The UO2 fracture with cladding was a video taken of the exodus file from a simulation of the radial stress, radial strain, hoop stress, and hoop strain. In this case, the simulation shows radial stress— the lines you see are where cracks form in the pellet.
+
+The UO2 mechanics with cladding was a video taken of the temperature distribution over operation. Due to the cladding being at a much lower temperature than the center of the pellet, the temperature profile did not change much after the initial time steps.
 
 ### UO2 Fracture with Cladding
 
