@@ -1,15 +1,11 @@
-+++
-title = "UO2 MOOSE Simulation"
-date = 2025-01-10
-description = "My experience doing multiphysics MOOSE simulations to examine stress, fracturing, and temperature during operation."
-tags = [
-]
-categories = [
-    "Research"
-    "Code"
-]
+---
+title: "UO2 MOOSE Simulation"
+date: 2025-01-10
+description: "My experience doing multiphysics MOOSE simulations to examine stress, fracturing, and temperature during operation."
+tags: []
+categories: ["Research", "Code"]
 draft: false
-+++
+---
 
 # Thanks for dropping in!
 
