@@ -13,7 +13,7 @@
       <link>http://localhost:1313/blog/post_2/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post_2/</guid>
-      <description>&lt;h1 id=&#34;thanks-for-dropping-in&#34;&gt;Thanks for dropping in!&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-did-i-learn-from-this-project&#34;&gt;What did I learn from this project?&lt;/h2&gt;&#xA;&lt;p&gt;This is a slightly older project that I used MOOSE for in sophomore year. It was my first introduction to multiphysics modeling and simulation, which is now one of my key interests. It also showed me the importance of understanding software from a lower level, a lesson I have used a lot recently to help with my current research project.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;thanks-for-dropping-in&#34;&gt;Thanks for dropping in!&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-did-i-learn-from-this-project&#34;&gt;What did I learn from this project?&lt;/h2&gt;&#xA;&lt;p&gt;This is a slightly older project that I collaborated on using MOOSE in sophomore year. It was my first introduction to multiphysics modeling and simulation, which is now one of my key interests. It also showed me the importance of understanding software from a (slightly) lower level of code, a lesson I have used a lot recently to help with my current research project.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

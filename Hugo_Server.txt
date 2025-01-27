@@ -1,0 +1,2 @@
+cd Desktop/Projects/ansonprojects.com/
+hugo server

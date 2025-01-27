@@ -11,7 +11,7 @@ draft: false
 
 ## What did I learn from this project?
 
-This is a slightly older project that I used MOOSE for in sophomore year. It was my first introduction to multiphysics modeling and simulation, which is now one of my key interests. It also showed me the importance of understanding software from a lower level, a lesson I have used a lot recently to help with my current research project.
+This is a slightly older project that I collaborated on using MOOSE in sophomore year. It was my first introduction to multiphysics modeling and simulation, which is now one of my key interests. It also showed me the importance of understanding software from a (slightly) lower level of code, a lesson I have used a lot recently to help with my current research project.
 
 ## Basis
 
