@@ -19,36 +19,23 @@ This was not only my first experience with linear regression but with deep learn
 
 ## Photographic Results
 
-I have embedded a few photos below that unfortunately do not seem to work all that well at the moment since I still need to take some time to see why it will not embed on this site properly.
+I have embedded a few photos below that now properly reference the images from the `static/images` directory.
 
-There are also several different learning rates used for this project and you can see how each reduces the loss. You can see that the loss for all learning rates rapidly decreases using gradient descent. This problem was both very simple and did not have a vast data set so the simplistic results and low computation time are expected.
+There are also several different learning rates used for this project, and you can see how each reduces the loss. You can see that the loss for all learning rates rapidly decreases using gradient descent. This problem was both very simple and did not have a vast data set, so the simplistic results and low computation time are expected.
 
-### 3D Data Visulaization of the Data
+### 3D Data Visualization of the Data
 
-This is a 3D plot of the tree dataset provided- this essentially creates a graph depicting the volume on the z-axis and the girth on the x-axis and height on the y-axis. This is the training data of this model- the data used to predict the optimized parameters.
-While I work on embedding the photo please visit: http://ansonprojects.com/static/images/Trees_data.png
+This is a 3D plot of the tree dataset provided—essentially creating a graph depicting the volume on the z-axis and the girth on the x-axis and height on the y-axis. This is the training data for this model—the data used to predict the optimized parameters.
 
-<video controls width="640" height="360">
-  <source src="/images/Trees_data.png" type="images/png">
-  Your browser does not support the video tag.
-</video>
+![3D Data Visualization](static/images/Trees_data.png)
 
 ### The Losses as Iterations Increase for Different Learning Rates
 
-This are screenshots of the losses as iterations increase when using differnet learning rates for this linear regression model.
-While I work on embedding the photo please visit: http://ansonprojects.com/static/images/Learning_Rates.png
+These are screenshots of the losses as iterations increase when using different learning rates for this linear regression model.
 
-<video controls width="640" height="360">
-  <source src="/images/Learning_Rates.png" type="images/png">
-  Your browser does not support the video tag.
-</video>
+![Losses for Different Learning Rates](static/images/Learning_Rates.png)
 
-While I work on embedding the photo please visit: http://ansonprojects.com/static/images/Log_Learning_Rates.png
-
-<video controls width="640" height="360">
-  <source src="/images/Log_Learning_Rates.png" type="images/png">
-  Your browser does not support the video tag.
-</video>
+![Logarithmic Losses for Learning Rates](static/images/Log_Learning_Rates.png)
 
 ## Code
 

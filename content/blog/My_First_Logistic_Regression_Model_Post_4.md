@@ -9,53 +9,35 @@ draft: false
 
 # Thanks for dropping in!
 
-This project taught me even more about deep learning basics. Using a logistic model is interesting because it allows the model to have a general rule for making descisions based on past descision data. I am currently unsure of how this function could be change to gather real-time descision data but that is something I want to look into more. I am also curious about feedback on the model's descisions from choices it has made- I assume for the example where it is chip manufacturing the priority should be weighted so the sucesses scrapped are prefered over failures that are shipped.
+This project taught me even more about deep learning basics. Using a logistic model is interesting because it allows the model to have a general rule for making decisions based on past decision data. I am currently unsure of how this function could be changed to gather real-time decision data, but that is something I want to look into more. I am also curious about feedback on the model's decisions from choices it has made—I assume for the example where it is chip manufacturing, the priority should be weighted so that the successes scrapped are preferred over failures that are shipped.
 
 ## What did I learn from this project?
 
-I liked logistic regression in particular due to the problem containing a use case, making it easier to understand how/why this model is used. This introduced several new factors such as regularization and using the hypothesis in the gradient descent/loss.
+I liked logistic regression in particular due to the problem containing a use case, making it easier to understand how/why this model is used. This introduced several new factors, such as regularization and using the hypothesis in the gradient descent/loss.
 
 ## Basis
 
-This was my first experience with logistic regression and also was assigned by a professor as homework but I still thought it was interesting and useful enough to post about what I learned.
+This was my first experience with logistic regression. It was assigned as homework by a professor, but I still thought it was interesting and useful enough to post about what I learned.
 
 ## Photographic Results
 
-I have embedded four photos below that unfortunately do not seem to work all that well at the moment since I still need to take some time to see why it will not embed on this site properly.
+I have embedded four photos below that now properly reference the images from the `static/images` directory.
 
-### 3D Data Visulaization of the Data
+### Regularization Comparison
 
-There are plots of the data both before and after regularization, respectively. You can see that the descision boundaries are similar but not exactly the same before and after regularization.
-While I work on embedding the photo please visit: http://ansonprojects.com/static/images/No_Reg.png
+These are plots of the data both before and after regularization, respectively. You can see that the decision boundaries are similar but not exactly the same before and after regularization.
 
-<video controls width="640" height="360">
-  <source src="/images/No_Reg.png" type="images/png">
-  Your browser does not support the video tag.
-</video>
+![No Regularization](static/images/No_Reg.png)
 
-While I work on embedding the photo please visit: http://ansonprojects.com/static/images/Reg.png
+![With Regularization](static/images/Reg.png)
 
-<video controls width="640" height="360">
-  <source src="/images/Reg.png" type="images/png">
-  Your browser does not support the video tag.
-</video>
+### Loss Comparison
 
-### The Losses as Iterations Increase for Different Learning Rates
+These are screenshots of the losses as iterations increase when using no regularization versus a regularization of one. As you can see, the loss converges much more quickly when regularized but converges to a higher loss than the non-regularized solution.
 
-This are screenshots of the losses as iterations increase when using for using no regularization versus a regularization of one. As you can see, the loss converges much more quickly when regularized but converges to a higher loss than the non-regularized solution.
-While I work on embedding the photo please visit: http://ansonprojects.com/static/images/No_Reg_Iter.png
+![Loss Without Regularization](static/images/No_Reg_Iter.png)
 
-<video controls width="640" height="360">
-  <source src="/images/No_Reg_Iter.png" type="images/png">
-  Your browser does not support the video tag.
-</video>
-
-While I work on embedding the photo please visit: http://ansonprojects.com/static/images/Reg_Iter.png
-
-<video controls width="640" height="360">
-  <source src="/images/Reg_Iter.png" type="images/png">
-  Your browser does not support the video tag.
-</video>
+![Loss With Regularization](static/images/Reg_Iter.png)
 
 ## Code
 
