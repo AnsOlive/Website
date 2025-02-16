@@ -27,18 +27,8 @@ The UO2 mechanics with cladding was a video taken of the temperature distributio
 
 ### UO2 Fracture with Cladding
 
-While I work on embedding the video please visit: http://ansonprojects.com/videos/uo2fracture_with_cladding.mp4
-
-<video controls width="640" height="360">
-  <source src="/videos/uo2fracture_with_cladding.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![UO2 Fracture with Cladding](/videos/uo2fracture_with_cladding.mp4)
 
 ### UO2 Mechanics with Cladding
 
-While I work on embedding the video please visit: http://ansonprojects.com/videos/uo2mechanics_with_cladding.mp4
-
-<video controls width="640" height="360">
-  <source src="/videos/uo2mechanics_with_cladding.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![UO2 Mechanics with Cladding](/videos/uo2mechanics_with_cladding.mp4)
