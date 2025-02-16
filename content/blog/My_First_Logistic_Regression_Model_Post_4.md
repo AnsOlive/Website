@@ -9,7 +9,7 @@ draft: false
 
 # Thanks for dropping in!
 
-This project taught me even more about deep learning basics. Using a logistic model is interesting because it allows the model to have a general rule for making decisions based on past decision data. I am currently unsure of how this function could be changed to gather real-time decision data, but that is something I want to look into more. I am also curious about feedback on the model's decisions from choices it has made—I assume for the example where it is chip manufacturing, the priority should be weighted so that the successes scrapped are preferred over failures that are shipped.
+This project taught me even more about deep learning basics. Using a logistic model is interesting because it allows the model to have a general rule for making decisions based on past decision data. I am currently unsure of how this function could be changed to gather real-time decision data, but that is something I want to look into more. I am also curious about feedback on the model's decisions from choices it has made— I assume for the example where it is chip manufacturing, the priority should be weighted so that the successes scrapped are preferred over failures that are shipped.
 
 ## What did I learn from this project?
 
@@ -21,23 +21,21 @@ This was my first experience with logistic regression. It was assigned as homewo
 
 ## Photographic Results
 
-I have embedded four photos below that now properly reference the images from the `static/images` directory.
-
 ### Regularization Comparison
 
 These are plots of the data both before and after regularization, respectively. You can see that the decision boundaries are similar but not exactly the same before and after regularization.
 
-![No Regularization](static/images/No_Reg.png)
+![No Regularization](/images/No_Reg.png)
 
-![With Regularization](static/images/Reg.png)
+![With Regularization](/images/Reg.png)
 
 ### Loss Comparison
 
 These are screenshots of the losses as iterations increase when using no regularization versus a regularization of one. As you can see, the loss converges much more quickly when regularized but converges to a higher loss than the non-regularized solution.
 
-![Loss Without Regularization](static/images/No_Reg_Iter.png)
+![Loss Without Regularization](/images/No_Reg_Iter.png)
 
-![Loss With Regularization](static/images/Reg_Iter.png)
+![Loss With Regularization](/images/Reg_Iter.png)
 
 ## Code
 
