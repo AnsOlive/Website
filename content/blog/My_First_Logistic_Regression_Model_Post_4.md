@@ -25,16 +25,38 @@ I have embedded four photos below that unfortunately do not seem to work all tha
 
 ### 3D Data Visulaization of the Data
 
-This is a 3D plot of the tree dataset provided- this essentially creates a graph depicting the volume on the z-axis and the girth on the x-axis and height on the y-axis. This is the training data of this model- the data used to predict the optimized parameters.
+There are plots of the data both before and after regularization, respectively. You can see that the descision boundaries are similar but not exactly the same before and after regularization.
 While I work on embedding the photo please visit: http://ansonprojects.com/static/images/No_Reg.png
+
+<video controls width="640" height="360">
+  <source src="/images/No_Reg.png" type="images/png">
+  Your browser does not support the video tag.
+</video>
+
 While I work on embedding the photo please visit: http://ansonprojects.com/static/images/Reg.png
+
+<video controls width="640" height="360">
+  <source src="/images/Reg.png" type="images/png">
+  Your browser does not support the video tag.
+</video>
 
 ### The Losses as Iterations Increase for Different Learning Rates
 
-This are screenshots of the losses as iterations increase when using differnet learning rates for this linear regression model.
+This are screenshots of the losses as iterations increase when using for using no regularization versus a regularization of one. As you can see, the loss converges much more quickly when regularized but converges to a higher loss than the non-regularized solution.
 While I work on embedding the photo please visit: http://ansonprojects.com/static/images/No_Reg_Iter.png
+
+<video controls width="640" height="360">
+  <source src="/images/No_Reg_Iter.png" type="images/png">
+  Your browser does not support the video tag.
+</video>
+
 While I work on embedding the photo please visit: http://ansonprojects.com/static/images/Reg_Iter.png
+
+<video controls width="640" height="360">
+  <source src="/images/Reg_Iter.png" type="images/png">
+  Your browser does not support the video tag.
+</video>
 
 ## Code
 
-You can find the code used for these results at [https://github.com/AnsOlive/Deep_Learning under the name nuen_489_homework_1.py](https://github.com/AnsOlive/Deep_Learning/blob/main/nuen_489_homework_1.py)
+You can find the code used for these results at [https://github.com/AnsOlive/Deep_Learning](https://github.com/AnsOlive/Deep_Learning/blob/main/nuen_489_homework_1.py)
