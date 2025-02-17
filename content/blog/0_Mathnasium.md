@@ -4,7 +4,7 @@ date: 2025-01-08
 tags: ["Work"]
 categories: ["Jobs"]
 description: "My time at Mathnasium."
-draft: false
+draft: true
 ---
 
 # Thanks for dropping in!
