@@ -2,8 +2,8 @@
 title: "UO2 MOOSE Simulation"
 date: 2025-01-11
 description: "My experience doing multiphysics MOOSE simulations to examine stress, fracturing, and temperature during operation."
-tags: []
-categories: ["Research", "Code"]
+tags: ["Work"]
+categories: ["Research", "Software", "Code"]
 draft: false
 ---
 
@@ -19,7 +19,7 @@ The simulation is based on a 2D slice of a fuel rod with cladding. The fuel itse
 
 ## Video Demonstrations
 
-I have embedded two videos below that unfortunately do not seem to work all that well at the moment. You will notice 'jumps' in both; that is because I am normalizing the data at that time so the rate of change is plain to see. I prioritized this over the absolute data scaled over the whole time because that scale makes the final data look somewhat homogenous.
+I have embedded two videos below that, unfortunately, do not seem to work all that well at the moment. You will notice 'jumps' in both; that is because I am normalizing the data at that time so the rate of change is plain to see. I prioritized this over the absolute data scaled over the whole time because that scale makes the final data look somewhat homogenous.
 
 The UO2 fracture with cladding was a video taken of the exodus file from a simulation of the radial stress, radial strain, hoop stress, and hoop strain. In this case, the simulation shows radial stress— the lines you see are where cracks form in the pellet.
 
@@ -27,7 +27,7 @@ The UO2 mechanics with cladding was a video taken of the temperature distributio
 
 ### UO2 Fracture with Cladding
 
-While I work on embedding the video please visit: http://ansonprojects.com/videos/uo2fracture_with_cladding.mp4
+While I work on embedding the video, please visit: http://ansonprojects.com/videos/uo2fracture_with_cladding.mp4
 
 <video controls width="640" height="360">
   <source src="/videos/uo2fracture_with_cladding.mp4" type="video/mp4">
@@ -36,7 +36,7 @@ While I work on embedding the video please visit: http://ansonprojects.com/video
 
 ### UO2 Mechanics with Cladding
 
-While I work on embedding the video please visit: http://ansonprojects.com/videos/uo2mechanics_with_cladding.mp4
+While I work on embedding the video, please visit: http://ansonprojects.com/videos/uo2mechanics_with_cladding.mp4
 
 <video controls width="640" height="360">
   <source src="/videos/uo2mechanics_with_cladding.mp4" type="video/mp4">

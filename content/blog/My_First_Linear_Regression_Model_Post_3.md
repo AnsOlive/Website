@@ -2,8 +2,8 @@
 title: "My First Linear Regression Model"
 date: 2025-02-05
 description: "My first experience applying the linear regression deep learning method."
-tags: []
-categories: ["Research", "Code", "Deep Learning"]
+tags: ["Work"]
+categories: ["Code", "Deep Learning"]
 draft: false
 ---
 
@@ -15,7 +15,7 @@ This project taught me a lot about deep learning basics. We went through the mat
 
 ## Basis
 
-This was not only my first experience with linear regression but with deep learning as a whole. This was assigned by a professor as homework but I still thought it was interesting and useful enough to post about what I learned.
+This was not only my first experience with linear regression but also with deep learning as a whole. This was assigned by a professor as homework, but I still thought it was interesting and useful enough to post about what I learned.
 
 ## Photographic Results
 
@@ -37,4 +37,4 @@ These are screenshots of the losses as iterations increase when using different 
 
 ## Code
 
-You can find the code used for these results at [https://github.com/AnsOlive/Deep_Learning](https://github.com/AnsOlive/Deep_Learning/blob/main/nuen_489_homework_1.py)
+You can find the code used for these results by clicking on [this link.](https://github.com/AnsOlive/Deep_Learning/blob/main/nuen_489_homework_1.py)

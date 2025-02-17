@@ -2,8 +2,8 @@
 title: "My First Logistic Regression Model"
 date: 2025-02-05
 description: "My first experience applying the logistic regression deep learning method."
-tags: []
-categories: ["Research", "Code", "Deep Learning"]
+tags: ["Work"]
+categories: ["Code", "Deep Learning"]
 draft: false
 ---
 
